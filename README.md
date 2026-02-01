@@ -15,43 +15,6 @@ This separation helps in keeping **concept learning** and **problem-solving** we
 
 ---
 
-## 📌 Repository Structure
-
-Each topic follows the same clean and consistent structure:
-
-Apna-college-DSA-sheet/
-│
-├── ArrayPractice/
-│ └── (Array concepts practiced while learning)
-│
-├── ArraySheetQuestions/
-│ └── (Array problems from Apna College DSA Sheet)
-│
-├── StackPractice/
-│ └── (Stack concepts & self practice)
-│
-├── StackSheetQuestions/
-│ └── (Stack problems from Apna College DSA Sheet)
-│
-├── QueuePractice/
-│
-├── QueueSheetQuestions/
-│
-├── LinkedListPractice/
-│
-├── LinkedListSheetQuestions/
-│
-├── StringPractice/
-│
-├── StringSheetQuestions/
-│
-└── README.md
-
-
-
----
-
-## 📂 Folder Explanation
 
 ### 🔹 TopicPractice Folders
 Example: `ArrayPractice/`, `StackPractice/`
