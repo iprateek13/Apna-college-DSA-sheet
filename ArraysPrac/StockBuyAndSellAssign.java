@@ -1,4 +1,4 @@
-public class StockBuyAndSellAssignment {
+public class StockBuyAndSellAssign {
     public static int stockbuyAndSell(int prices[]) {
         int buyPrice = prices[0];
         int maxprofit = 0;
