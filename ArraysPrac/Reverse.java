@@ -15,7 +15,7 @@ public class Reverse {
             System.out.print(tempArr[i] + " ");
         }
         System.out.println();
-        // for each method
+        // for each loop
         System.out.print("Reverse no. is printed by For-each loop : ");
         for (int revNums : tempArr) {
             System.out.print(revNums + " ");
